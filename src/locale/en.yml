@@ -1,0 +1,15 @@
+# const En = {
+#   common: {
+#     Hello: 'Hey yo'
+#   },
+#   dogs: {
+
+#   }
+# };
+
+# export default En;
+
+
+common:
+  Hello: Hey yo
+dogs:

@@ -1,0 +1,15 @@
+# const TW = {
+#   common: {
+#     Hello: '你好'
+#   },
+#   dogs: {
+
+#   }
+# };
+
+# export default TW;
+
+
+common:
+  Hello: 你好yo
+dogs:
