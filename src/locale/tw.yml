@@ -11,5 +11,17 @@
 
 
 common:
-  Hello: 你好yo
-dogs:
+  hello: 你好
+dog:
+  hello: 餵狗囉！
+  birthday: 出生日期
+  weight: 體重
+  foodKcal: 食物熱量
+  size: 體型
+  sizeThin: 過瘦
+  sizePerfect: 完美
+  sizeFat: 過胖
+  inputWeight: 請輸入狗狗體重（kg）
+  inputFoodKcal: 請輸入每公斤飼料熱量（kcal/kg）
+  months: 個月
+  years: 歲
